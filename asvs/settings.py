@@ -130,3 +130,4 @@ LOGIN_URL = "login"
 CRISPY_TEMPLATE_PACK = "bootstrap3"
 # USE_THOUSAND_SEPARATOR = True
 AUTH_USER_MODEL = "accountauth.CustomUser" 
+SESSION_COOKIE_SECURE = True
